@@ -23,8 +23,8 @@
 const manoj = {
   location: "Coimbatore, India",
   education: "Computer Science Engineering @ PSG Tech",
-  currentRole: "Project Intern @ Samsung R&D Institute India",
-  fields: ["Backend Systems", "Network Infrastructure", "System Design"],
+  Experience: ["Project Intern @ Samsung R&D Institute India","Fullstack Engineer Inter @ ActivDna"]
+  fields: ["Fullstack Development","Backend Systems", "Machine learning", "System Design"],
   currentFocus: "Building scalable multi-tenant applications",
   funFact: "I can transform caffeine into production-grade code",
   hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
@@ -49,9 +49,6 @@ const manoj = {
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <div style="flex: 0 0 100px;">
-    <img src="https://i.ibb.co/vCPffJgv/logo.png" width="100" height="100" alt="BootUp AI Logo"/>
-  </div>
   <div style="flex: 1; padding-left: 15px;">
     <h3>🔗 <a href="https://bootupai.tech">BootUp AI</a></h3>
     <p><em>Automated referral processing platform</em></p>
@@ -70,7 +67,12 @@ const manoj = {
 - Developed sound classification engine with 94% accuracy using ensemble learning (MLP, Random Forest, XGBoost, SVM)
 - Conducted exploratory data analysis on ASVspoof 2019 dataset identifying discriminative acoustic features
 - Focused on IoT security applications for bonafide vs. replayed speech detection
-
+  
+**Full Stack Engineer Intern @ ActivDna - Remote** *(May 2025 – Jun 2025)*
+- Built core CRM web application for fitness industry using React.js, Next.js, Node.js, and SQL as founding intern,
+shipping standalone features from requirements to production deployment.
+- Integrated Google Maps API, Sanity CMS, and RESTful endpoints with authentication and data validation for
+location services and content management.
 ## 📦 Open Source Contributions
 
 <div align="center">
@@ -105,16 +107,6 @@ const manoj = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </div>
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manojk0303&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=manojk0303&theme=radical"/>
-</p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojk0303&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
 
 ## 🏆 Achievements
 
