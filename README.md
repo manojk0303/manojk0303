@@ -23,9 +23,13 @@
 const manoj = {
   location: "Coimbatore, India",
   education: "Computer Science Engineering @ PSG Tech",
-  Experience: ["Project Intern @ Samsung R&D Institute India","Fullstack Engineer Inter @ ActivDna"]
-  fields: ["Fullstack Development","Backend Systems", "Machine learning", "System Design"],
-  currentFocus: "Building scalable multi-tenant applications",
+  experience: [
+    "Backend Engineer Intern @ Codeyoung (Current)",
+    "Project Intern @ Samsung R&D Institute India",
+    "Fullstack Engineer Intern @ ActivDna"
+  ],
+  fields: ["Fullstack Development", "Backend Systems", "AI Integration", "System Design"],
+  currentFocus: "Building agentic AI features for EdTech at Codeyoung",
   funFact: "I can transform caffeine into production-grade code",
   hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
   challengeMe: "Tell me about a problem that needs solving!"
@@ -63,16 +67,23 @@ const manoj = {
 
 ## 💼 Professional Experience
 
+**Backend Engineer Intern @ Codeyoung - Bangalore** *(Jan 2026 – Present)*
+- Building AI Calls feature end-to-end, integrating agentic AI providers (Tough Tongue AI and others) via third-party APIs for real-time voice interactions in an EdTech platform
+- Full ownership of backend features from design to production, coordinating with agent orchestration services and ensuring reliability across async workflows
+  
 **Project Intern @ Samsung R&D Institute India - Bangalore** *(Sep 2024 – Mar 2025)*
 - Developed sound classification engine with 94% accuracy using ensemble learning (MLP, Random Forest, XGBoost, SVM)
 - Conducted exploratory data analysis on ASVspoof 2019 dataset identifying discriminative acoustic features
 - Focused on IoT security applications for bonafide vs. replayed speech detection
+  
   
 **Full Stack Engineer Intern @ ActivDna - Remote** *(May 2025 – Jun 2025)*
 - Built core CRM web application for fitness industry using React.js, Next.js, Node.js, and SQL as founding intern,
 shipping standalone features from requirements to production deployment.
 - Integrated Google Maps API, Sanity CMS, and RESTful endpoints with authentication and data validation for
 location services and content management.
+
+
 ## 📦 Open Source Contributions
 
 <div align="center">
