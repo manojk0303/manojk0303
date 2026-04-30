@@ -24,14 +24,12 @@ const manoj = {
   location: "Coimbatore, India",
   education: "Computer Science Engineering @ PSG Tech",
   experience: [
+    "Project Intern(AI/ML) @ Samsung R&D Institute India".
     "Backend Engineer Intern @ Codeyoung (Current)",
-    "Project Intern @ Samsung R&D Institute India",
     "Fullstack Engineer Intern @ ActivDna"
   ],
-  fields: ["Fullstack Development", "Backend Systems", "AI Integration", "System Design"],
-  currentFocus: "Building agentic AI features for EdTech at Codeyoung",
-  funFact: "I can transform caffeine into production-grade code",
-  hobbies: ["Coding", "Problem Solving", "Learning New Tech"],
+  fields: ["AI Engineer","Fullstack Development", "Backend Systems", "AI Integration", "System Design"],
+  funFact: "I can transform diet coke into production grade code",
   challengeMe: "Tell me about a problem that needs solving!"
 };
 ```
